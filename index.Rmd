@@ -1,0 +1,74 @@
+---
+title: "We Did Not Win a Darwin Award"
+subtitle: "Tales of Survival, Stupidity, and Second Chances"
+author: "Edited by [Your Name]"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A collection of personal stories from people who narrowly avoided becoming Darwin Award winners - celebrating human resilience, luck, and the lessons learned from our most foolish moments."
+---
+
+# Preface {-}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+> "I have survived many things that should have killed me. I am either very lucky or evolution is still deciding." - Anonymous Contributor
+
+## What This Book Is About {-}
+
+The Darwin Awards, for those unfamiliar, represent a darkly humorous tribute to those who improve the human gene pool by accidentally removing themselves from it through acts of spectacular stupidity. Since the 1990s, these stories have been collected, shared, and grimly celebrated across the internet and in bestselling books.
+
+But what about the rest of us?
+
+What about those moments when we stood at the precipice of our own Darwin Award moment and somehow—through luck, divine intervention, or a last-second burst of common sense—managed to step back? What about the stories that begin with "I can't believe I'm still alive" rather than ending with "They never found the body"?
+
+This book is a collection of those stories.
+
+**We Did Not Win a Darwin Award** celebrates the near-misses, the close calls, and the "what was I thinking?" moments that we survived to tell about. These are true stories from real people who, for one reason or another, should probably not be here to share their tales. Some are funny. Some are terrifying. Some are both.
+
+Each chapter in this collection represents a different way to almost earn evolution's most dubious honor—from misadventures with fire and explosives to ill-advised encounters with wildlife, from gravity-defying stupidity to chemistry experiments gone wrong.
+
+## A Note on the Darwin Awards {-}
+
+The concept of the Darwin Award emerged from Usenet newsgroups in the 1980s and was formalized by Wendy Northcutt in 1994 with the creation of DarwinAwards.com. The awards are named after Charles Darwin, whose theory of natural selection suggests that advantageous traits are passed on to future generations. The Darwin Awards, in their morbid way, celebrate "de-selection"—the removal of disadvantageous traits (like catastrophic stupidity) from the gene pool.
+
+To "win" a Darwin Award, one must:
+
+1. **Die or be sterilized** (removal from the gene pool)
+2. Demonstrate **excellent** stupidity
+3. Be the **sole cause** of one's own demise
+4. Be a **mature, capable adult**
+5. Have the event **verified** as true
+
+The people in this book met criteria #2 through #4, but fortunately failed at #1. We survived our stupidity. We lived to tell the tale. We did NOT win a Darwin Award.
+
+And we're strangely proud of it.
+
+## How to Read This Book {-}
+
+Each chapter is themed around a particular category of near-disaster. Some chapters feature a single, in-depth story of one person's remarkable survival. Others collect multiple shorter tales united by theme—"Fire and Explosives," "Gravity: Not Just a Good Idea," "When Animals Attack Back," and so on.
+
+The stories are contributed by people from all walks of life. Some contributors chose to use their real names; others preferred pseudonyms to protect the innocent (or not-so-innocent). Details have been changed in some stories to protect privacy, but the essential truth—and the essential foolishness—remains intact.
+
+Feel free to read this book front to back, or jump to whatever category of stupidity interests you most. We won't judge. After all, we're hardly in a position to judge anyone.
+
+## A Word of Caution {-}
+
+**Do not try any of the things described in this book.**
+
+We survived. You might not be so lucky.
+
+The stories collected here are not instruction manuals or dares. They are cautionary tales wrapped in humor and hindsight. We share them not to inspire imitation, but to inspire reflection—and perhaps a chuckle at the absurdity of human behavior when common sense takes a holiday.
+
+## Contributing Your Story {-}
+
+This book is a living project. If you have a story of how you narrowly avoided a Darwin Award, we'd love to hear it. Visit [website/contact information] to submit your tale of survival and stupidity.
+
+Remember: If you're reading this, you survived. And that makes you part of an exclusive club—people too lucky, too stubborn, or too accidentally brilliant to win evolution's booby prize.
+
+Welcome to the survivors' circle.

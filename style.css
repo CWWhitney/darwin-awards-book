@@ -1,0 +1,428 @@
+/* Custom CSS for "We Did Not Win a Darwin Award" bookdown project */
+
+/* ==========================================
+   GENERAL STYLING
+   ========================================== */
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  color: #2c3e50;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: 3px solid #e74c3c;
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 2em;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: #e67e22;
+}
+
+h4 {
+  font-size: 1.2em;
+  color: #16a085;
+}
+
+/* ==========================================
+   BLOCKQUOTES - For chapter opening quotes
+   ========================================== */
+
+blockquote {
+  font-style: italic;
+  font-size: 1.2em;
+  color: #555;
+  border-left: 5px solid #e74c3c;
+  padding-left: 20px;
+  margin: 1.5em 0;
+  background-color: #f9f9f9;
+  padding: 15px 20px;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+/* ==========================================
+   LINKS
+   ========================================== */
+
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #e74c3c;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #9b59b6;
+}
+
+/* ==========================================
+   CODE AND PRE-FORMATTED TEXT
+   ========================================== */
+
+code {
+  background-color: #f4f4f4;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+  color: #c7254e;
+}
+
+pre {
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  overflow-x: auto;
+  line-height: 1.4;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+  color: #333;
+}
+
+/* ==========================================
+   TABLES
+   ========================================== */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+table th {
+  background-color: #3498db;
+  color: white;
+  font-weight: bold;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* ==========================================
+   WARNING/CAUTION BOXES
+   ========================================== */
+
+.warning,
+.caution,
+.danger {
+  padding: 15px 20px;
+  margin: 1.5em 0;
+  border-left: 5px solid;
+  border-radius: 5px;
+}
+
+.warning {
+  background-color: #fff3cd;
+  border-color: #ffc107;
+  color: #856404;
+}
+
+.caution {
+  background-color: #d1ecf1;
+  border-color: #17a2b8;
+  color: #0c5460;
+}
+
+.danger {
+  background-color: #f8d7da;
+  border-color: #e74c3c;
+  color: #721c24;
+}
+
+/* ==========================================
+   CONTRIBUTOR ATTRIBUTION
+   ========================================== */
+
+.contributor {
+  font-style: italic;
+  color: #666;
+  font-size: 0.95em;
+  margin: 0.5em 0;
+}
+
+.contributor strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+/* ==========================================
+   STORY SECTIONS
+   ========================================== */
+
+.story {
+  margin: 2em 0;
+  padding: 1.5em;
+  background-color: #fafafa;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+
+.story-title {
+  font-size: 1.3em;
+  color: #e74c3c;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+.lessons-learned {
+  background-color: #e8f5e9;
+  border-left: 5px solid #4caf50;
+  padding: 15px 20px;
+  margin: 1.5em 0;
+  border-radius: 5px;
+}
+
+.lessons-learned h3,
+.lessons-learned h4 {
+  color: #2e7d32;
+  margin-top: 0;
+}
+
+/* ==========================================
+   LISTS
+   ========================================== */
+
+ul, ol {
+  margin: 1em 0;
+  padding-left: 2em;
+}
+
+li {
+  margin: 0.5em 0;
+}
+
+/* ==========================================
+   HORIZONTAL RULES
+   ========================================== */
+
+hr {
+  border: none;
+  border-top: 2px solid #ddd;
+  margin: 2em 0;
+}
+
+/* ==========================================
+   NAVIGATION
+   ========================================== */
+
+.book .book-summary {
+  background-color: #2c3e50;
+}
+
+.book .book-summary ul.summary li a {
+  color: #ecf0f1;
+  padding: 8px 15px;
+  transition: background-color 0.2s ease;
+}
+
+.book .book-summary ul.summary li a:hover {
+  background-color: #34495e;
+  text-decoration: none;
+}
+
+.book .book-summary ul.summary li.active > a {
+  background-color: #e74c3c;
+  color: white;
+  font-weight: bold;
+}
+
+/* ==========================================
+   FOOTER
+   ========================================== */
+
+.book-footer {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 2px solid #ddd;
+  font-size: 0.9em;
+  color: #777;
+  text-align: center;
+}
+
+/* ==========================================
+   EDITOR'S NOTES
+   ========================================== */
+
+.editor-note {
+  font-style: italic;
+  color: #666;
+  background-color: #f0f0f0;
+  padding: 10px 15px;
+  margin: 1em 0;
+  border-left: 3px solid #95a5a6;
+  font-size: 0.95em;
+}
+
+/* ==========================================
+   RESPONSIVE DESIGN
+   ========================================== */
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.6em;
+  }
+
+  h3 {
+    font-size: 1.3em;
+  }
+
+  blockquote {
+    font-size: 1.1em;
+    padding: 10px 15px;
+  }
+
+  .story {
+    padding: 1em;
+  }
+}
+
+/* ==========================================
+   PRINT STYLES
+   ========================================== */
+
+@media print {
+  body {
+    font-size: 12pt;
+    color: #000;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  .book-summary,
+  .book-header,
+  .navigation {
+    display: none;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  .story,
+  .lessons-learned {
+    page-break-inside: avoid;
+  }
+}
+
+/* ==========================================
+   SPECIAL ELEMENTS
+   ========================================== */
+
+/* Darwin Award "Almost Won" badge */
+.almost-darwin {
+  display: inline-block;
+  background-color: #e74c3c;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+/* Survival rating stars */
+.survival-rating {
+  color: #f39c12;
+  font-size: 1.2em;
+}
+
+/* Chapter number styling */
+.chapter-number {
+  color: #e74c3c;
+  font-weight: bold;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Highlighted text for important warnings */
+mark, .highlight {
+  background-color: #fff176;
+  padding: 2px 4px;
+}
+
+/* Statistics boxes */
+.stats-box {
+  background-color: #e3f2fd;
+  border: 2px solid #2196f3;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 1.5em 0;
+}
+
+.stats-box h4 {
+  color: #1976d2;
+  margin-top: 0;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background-color: #e74c3c;
+  color: white;
+}
+
+::-moz-selection {
+  background-color: #e74c3c;
+  color: white;
+}

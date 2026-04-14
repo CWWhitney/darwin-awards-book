@@ -1,0 +1,72 @@
+# R and RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# bookdown build outputs
+_book/
+_bookdown_files/
+docs/
+*.log
+*.aux
+*.out
+*.toc
+*.lot
+*.lof
+
+# R package builds
+*.tar.gz
+*.zip
+
+# knitr and R Markdown
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
+.Rproj.user
+
+# Generated bibliography
+packages.bib
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# LaTeX intermediate files
+*.synctex.gz
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+*.rds
+*.pdf
+*.epub
+*.mobi

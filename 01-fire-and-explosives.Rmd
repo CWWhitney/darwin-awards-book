@@ -1,0 +1,141 @@
+# Fire and Explosives {#fire-explosives}
+
+```{r fire-setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+> "The difference between science and screwing around is writing it down." - Adam Savage (who presumably survived his experiments)
+
+## Introduction
+
+There's something primal about fire. It draws us in, fascinates us, makes us think we can control forces we barely understand. Add in the human tendency to mix things that shouldn't be mixed, and you have a recipe for disaster—or at least singed eyebrows and missing digits.
+
+This chapter collects stories from people who learned the hard way that fire is not their friend, explosives are not toys, and "What's the worst that could happen?" is not a valid safety protocol.
+
+## The Gasoline Incident: A Cautionary Tale
+
+**Contributor: Michael T. (Real name, because "everyone in my hometown already knows this story")**
+
+I was sixteen, which is already a risky age for decision-making. It was a hot summer day in rural Montana, the kind where you can see heat waves rising off the pavement and every teenage boy is looking for something—anything—to do.
+
+My friend Jake and I had been tasked with clearing brush from behind his dad's barn. This involved a lot of dried grass, tumbleweeds, and the accumulated plant matter of several neglectful years. Jake's dad, in his infinite wisdom (sarcasm noted in retrospect), told us we could "just burn it" to make the job easier.
+
+He gave us matches. He did not, however, give us detailed instructions on the proper use of accelerants.
+
+We piled up the brush into what we thought was an impressive mound—probably eight feet high and twice as wide. We tried lighting it with matches. Nothing. The outer layer was too dry and the inside too dense. We tried newspaper. Still nothing that resembled the satisfying bonfire we'd envisioned.
+
+"We need gasoline," Jake declared, with the confidence of someone who had never been on fire.
+
+I should have objected. I didn't.
+
+Jake returned from the barn with a five-gallon gas can, nearly full. We proceeded to pour it over the brush pile—not a little, not a measured amount, but generous glugs of gasoline that soaked into the dried vegetation and pooled on the ground beneath.
+
+The smell should have warned us. The fumes should have been a giant red flag. We were standing in a cloud of vaporized gasoline on a 95-degree day, about to introduce an open flame.
+
+I struck the match.
+
+I don't remember throwing it. I don't remember the first moment of ignition. What I remember is the **WHOOMP**—a sound that's not quite an explosion but not quite not an explosion—and suddenly being on my back ten feet away with no eyebrows and the distinct smell of burnt hair.
+
+The fireball that erupted from that brush pile was visible from the highway, half a mile away. It mushroomed up into a column that had to be thirty feet high. The heat was so intense that the paint on the side of the barn started bubbling. Dried grass in a twenty-foot radius around the pile ignited spontaneously.
+
+Jake's dad came running out of the house screaming words I cannot reproduce in print. The volunteer fire department showed up. So did Jake's mom. So did, eventually, a very unimpressed sheriff's deputy who lectured us on reckless endangerment while I stood there, eyebrow-less and reeking of singed hair.
+
+The brush pile burned for six hours. The barn survived, barely. My pride did not.
+
+### What I Learned
+
+1. Gasoline vapor ignites. You don't need to put fire directly on liquid gasoline—the fumes alone will explode.
+2. A "little" gasoline is a dangerous amount. Five gallons is criminally stupid.
+3. Eyebrows grow back, but slowly, and you look very weird without them.
+4. When adults say "be careful with fire," they mean it.
+5. The distance you think you need to stand back is not nearly far enough.
+
+I did not win a Darwin Award that day, but I came close enough to see it waving from across the finish line. I'm 34 now, and I still check twice before lighting anything more dangerous than a birthday candle.
+
+---
+
+## The Chemistry Set Chronicles
+
+**Contributor: Anonymous (for obvious reasons)**
+
+*[Editor's note: This contributor requested anonymity due to the statute of limitations being unclear on some of these activities.]*
+
+When I was twelve, I received a chemistry set for my birthday. Not one of those sad modern ones with five pre-measured experiments—this was the early 1990s, and my set came with actual chemicals, glass tubes, and a disturbing lack of adult supervision.
+
+What follows is a brief list of things I should not have done:
+
+### Experiment 1: The Tennis Ball Bomb
+
+I learned that you could cut open a tennis ball, fill it with match heads scraped from several dozen matches, seal it back up with duct tape, and throw it against a hard surface for a satisfying **BANG**.
+
+What I did not consider: doing this in my bedroom with wooden floors. The scorch mark remained until my parents sold that house ten years later.
+
+### Experiment 2: Dry Ice and Plastic Bottles
+
+Dry ice in a plastic bottle with water creates pressure. Enough pressure, and the bottle explodes. I knew this intellectually. What I didn't calculate was the shrapnel potential of a two-liter soda bottle.
+
+The bottle exploded while I was holding it.
+
+I had plastic shards embedded in my jacket. If I hadn't been wearing thick winter clothing because I was doing this in the garage in January, I would have been shredded. My hearing rang for three days.
+
+### Experiment 3: The Chlorine Incident
+
+Chemistry sets used to come with little packets of various substances. I discovered that mixing certain pool chemicals with other substances from under the kitchen sink created chlorine gas.
+
+I did this in a enclosed space (my bedroom, again).
+
+I gave myself chlorine gas poisoning and had to be taken to the ER, where I lied and said I'd been cleaning the bathroom and "mixed things by accident." My mother believed me because the alternative—that her twelve-year-old was conducting chemical warfare experiments in his bedroom—was too terrible to contemplate.
+
+### Lessons Learned
+
+- Chemistry sets are educational. What they teach you is how close you can come to killing yourself.
+- Ventilation is not optional.
+- If you're hiding what you're doing from adults, there's probably a good reason they wouldn't approve.
+- The ER doctors know you're lying, but they're too professional to say so.
+
+I'm a chemical engineer now, which my mother finds either ironic or proof that I learned something. I work in safety protocols for industrial manufacturing. My colleagues would be horrified to know my origin story.
+
+---
+
+## Short Takes: Quick Paths to Immolation
+
+### The Hairspray Flamethrower
+**Contributor: Sarah K.**
+
+Aerosol + lighter = flamethrower. This is known by every teenager in history. What is less known: hairspray flamethrowers melt plastic shower curtains incredibly fast, and flaming plastic drips. I have a scar on my forearm twenty years later.
+
+### The Microwave Armageddon
+**Contributor: David R.**
+
+In college, we discovered that putting Ivory soap in the microwave makes it expand into a massive cloud. Then we discovered that metal in the microwave makes lightning. Then we discovered that trying both simultaneously makes the microwave explode, sets off the fire alarm, evacuates the dorm, and gets you banned from having kitchen privileges for a semester.
+
+### The Firework Mishap
+**Contributor: Jennifer L.**
+
+Roman candles are meant to shoot flaming balls into the air. They are not meant to be held backwards. I learned the difference at a Fourth of July party. My garage did not appreciate the lesson. Neither did the fire department.
+
+### The Lighter Fluid Incident
+**Contributor: Thomas W.**
+
+When a charcoal grill won't light, the solution is not to pour an entire bottle of lighter fluid on it and then toss a match from a "safe distance." The fireball singed my entire front yard and melted my flip-flops while they were still on my feet.
+
+---
+
+## Conclusion: Playing with Fire
+
+Fire is humanity's oldest tool and our most persistent danger. We've been burning ourselves since we discovered how to create flames, and apparently, we haven't learned much in the intervening millennia.
+
+The stories in this chapter share common themes:
+
+1. **Underestimating combustion**: Fire is faster, hotter, and more aggressive than we think
+2. **Overconfidence**: "I know what I'm doing" is rarely true
+3. **Inadequate safety margins**: We stand too close, use too much accelerant, and skip safety equipment
+4. **Luck**: Most of us survived because of factors beyond our control
+
+If there's wisdom to be found in these tales, it's this: Respect fire. Respect chemistry. And when that little voice in your head says "This might be a bad idea," listen to it. That voice is the only thing standing between you and a Darwin Award nomination.
+
+Stay safe. Stay smart. And for the love of all that's holy, please don't try any of this at home.
+
+---
+
+*Have your own fire-and-explosives near-miss story? We'd love to hear it (assuming you survived to tell it). Contact us at [submission information].*

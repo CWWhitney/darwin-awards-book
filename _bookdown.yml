@@ -1,0 +1,24 @@
+book_filename: "we_did_not_win_darwin_award"
+language:
+  label:
+    fig: "Figure "
+    tab: "Table "
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+output_dir: "docs"
+rmd_files:
+  - "index.Rmd"
+  - "01-fire-and-explosives.Rmd"
+  - "02-gravity-lessons.Rmd"
+  - "03-electricity-experiments.Rmd"
+  - "04-vehicle-misadventures.Rmd"
+  - "05-water-hazards.Rmd"
+  - "06-wildlife-encounters.Rmd"
+  - "07-chemical-curiosities.Rmd"
+  - "08-heights-and-falls.Rmd"
+  - "09-diy-disasters.Rmd"
+  - "10-youthful-idiocy.Rmd"
+  - "11-travel-troubles.Rmd"
+  - "12-medical-miracles.Rmd"
+  - "99-references.Rmd"
