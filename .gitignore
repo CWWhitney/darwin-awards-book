@@ -8,7 +8,6 @@
 # bookdown build outputs
 _book/
 _bookdown_files/
-docs/
 *.log
 *.aux
 *.out
